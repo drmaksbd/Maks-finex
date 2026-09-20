@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1023351717990",
+    "firebase_url": "https://hiseb-nikesh-default-rtdb.firebaseio.com",
+    "project_id": "hiseb-nikesh",
+    "storage_bucket": "hiseb-nikesh.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023351717990:android:f866e1db2e653bf3f9eda7",
+        "android_client_info": {
+          "package_name": "com.aistudio.hisebnikesh.finst"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1023351717990-3rokgft27ktfu8fhtnk2bbmk51j31gle.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3WJ6guS36_MuSe0hyTPKcR3ZdCa_R1lI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1023351717990-3rokgft27ktfu8fhtnk2bbmk51j31gle.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
