@@ -1,0 +1,6 @@
+{
+  "name": "MAKS FINEX",
+  "description": "Personal finance and business management application for tracking income, expenses, investments, debts, assets, business accounts, reports and more.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
